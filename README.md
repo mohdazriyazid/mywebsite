@@ -1,2 +1,2 @@
 # mywebsite
-personal branding website
+about me
